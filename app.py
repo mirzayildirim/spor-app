@@ -123,3 +123,14 @@ with tab2:
             st.warning("Bu hareket için henüz veri girilmemiş.")
     else:
         st.info("Henüz hiç antrenman kaydedilmedi.")
+
+# --- TASARIM TEMİZLİĞİ (Logoları ve Menüleri Gizler) ---
+gizleme_kodu = """
+<style>
+#MainMenu {visibility: hidden;} /* Sağ üstteki menüyü gizler */
+footer {visibility: hidden;} /* En alttaki 'Made with Streamlit' yazısını gizler */
+header {visibility: hidden;} /* Üstteki renkli şeridi ve GitHub logosunu gizler */
+.block-container {padding-top: 1rem; padding-bottom: 0rem;} /* Üstteki devasa boşluğu kapatır */
+</style>
+"""
+st.markdown(gizleme_kodu, unsafe_allow_html=True)
