@@ -1,0 +1,71 @@
+[
+    {
+        "tarih": "2026-11-13",
+        "hareket": "Shoulder Press",
+        "setler": [
+            {
+                "set": 1,
+                "tekrar": 31,
+                "agirlik": 47.0
+            },
+            {
+                "set": 2,
+                "tekrar": 12,
+                "agirlik": 47.0
+            },
+            {
+                "set": 3,
+                "tekrar": 1,
+                "agirlik": 0.0
+            }
+        ]
+    },
+    {
+        "tarih": "2026-11-13",
+        "hareket": "Shoulder Press",
+        "setler": [
+            {
+                "set": 1,
+                "tekrar": 22,
+                "agirlik": 55.0
+            },
+            {
+                "set": 2,
+                "tekrar": 33,
+                "agirlik": 77.0
+            }
+        ]
+    },
+    {
+        "tarih": "2026-11-14",
+        "hareket": "Squat",
+        "setler": [
+            {
+                "set": 1,
+                "tekrar": 22,
+                "agirlik": 55.0
+            },
+            {
+                "set": 2,
+                "tekrar": 33,
+                "agirlik": 44.0
+            }
+        ]
+    },
+    {
+        "tarih": "2026-11-13",
+        "hareket": "Squat",
+        "setler": [
+            {
+                "set": 1,
+                "tekrar": 12,
+                "agirlik": 30.0
+            },
+            {
+                "set": 2,
+                "tekrar": 11,
+                "agirlik": 25.0
+            }
+        ]
+    }
+]
